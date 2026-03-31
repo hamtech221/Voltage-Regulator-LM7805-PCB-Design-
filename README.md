@@ -10,4 +10,4 @@ This project demonstrates a basic 5V linear voltage regulator circuit using LM78
 - Simple PCB layout design
 
 ## Picture
-Image/2D_View.png
+![PCB](Image/2D_View.png)
